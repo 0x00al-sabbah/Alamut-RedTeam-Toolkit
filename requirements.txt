@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pyscreenrec
+pyautogui
+pynput
+keyboard
+cryptography

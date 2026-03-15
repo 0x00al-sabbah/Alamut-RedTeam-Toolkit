@@ -1,8 +1,11 @@
 # alamut-RAT
 ## alamut Python Telegram RAT with screen capture, file exfiltration, and remote command execution
 
+![Image](https://github.com/user-attachments/assets/7ec18ef1-0c68-4f34-9a32-edfebcb6f52e)
 
-
+## preparation:
+### pip install -r requirements.txt
+### get your token from botfather
 ## | Command                 | Description                |
 ### | ----------------------- | -------------------------- |
 ### | `/sys`                  | Show system information    |
@@ -19,3 +22,5 @@
 ### | `/lock`                 | Disable keyboard and mouse |
 ### | `/unlock`               | Enable keyboard and mouse  |
 ### | `/close`                | Stop client                |
+
+##POC

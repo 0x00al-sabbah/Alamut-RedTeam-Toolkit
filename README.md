@@ -1,4 +1,4 @@
-# alamut-RAT
+# alamut telegram RAT
 ## alamut Python Telegram RAT with screen capture, file exfiltration, and remote command execution and even more 
 
 ![Image](https://github.com/user-attachments/assets/7ec18ef1-0c68-4f34-9a32-edfebcb6f52e)

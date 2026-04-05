@@ -1,4 +1,4 @@
-<h1 align="center">Alamut Telegram ToolKit</h1>
+<h1 align="center">Al-Amut Telegram ToolKit</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7ec18ef1-0c68-4f34-9a32-edfebcb6f52e" width="600"/>

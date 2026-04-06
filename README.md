@@ -25,6 +25,7 @@
 
 ```sh
 git clone https://github.com/0x00al-sabbah/Alamut-RedTeam-Toolkit.git
+cd Alamut-RedTeam-Toolkit
 ```
 
 ## Preparation

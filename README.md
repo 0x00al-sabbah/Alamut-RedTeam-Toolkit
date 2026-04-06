@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/0x00al-sabbah/Alamut-RedTeam-Toolkit?style=social" />
-  <img src="https://img.shields.io/github/forks/0x00al-sabbah/Alamut-RedTeam-Toolkit?style=social" />
+  <img src="https://img.shields.io/github/last-commit/0x00al-sabbah/Alamut-RedTeam-Toolkit" />
+  <img src="https://img.shields.io/github/languages/top/0x00al-sabbah/Alamut-RedTeam-Toolkit" />
+    <img src="https://img.shields.io/github/issues-pr/0x00al-sabbah/Alamut-RedTeam-Toolkit" />
+  <img src="https://img.shields.io/github/issues/0x00al-sabbah/Alamut-RedTeam-Toolkit" />
+  <img src="https://img.shields.io/github/stars/0x00al-sabbah/Alamut-RedTeam-Toolkit" />
 </p>
 
 
